@@ -14,7 +14,7 @@
 Код каждой функции вы можете увидеть в директории **API**, я же приведу результаты первоначальной работы (все скриншоты кликабельны!):
 
 Создание новой карточки животного **без фото**:
-![image](https://user-images.githubusercontent.com/71213226/145868912-3d526d0a-f0c4-492f-84d0-6bdcf119e7d6.png)
+![image](https://github.com/polina204539/Quality-of-softwere-systems/blob/main/5.png)
 
 Получение ключа API:
 ![image]((https://github.com/polina204539/Quality-of-softwere-systems/blob/main/1.png)
