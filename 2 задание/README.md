@@ -1,7 +1,7 @@
 Работа 2
 Результат работы тестов:
 
- 
+ https://github.com/polina204539/Quality-of-softwere-systems/blob/main/2%20задание/тест.png
 
 
 1.	test_ls – тестирует функцию показа всех файлов папки
